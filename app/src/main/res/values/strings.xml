@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MinderaAssignment</string>
+
+    <string name="repositories_title">"GitHub Repositories"</string>
+    <string name="repository_details_title">Repository Details</string>
+    <string name="back">Back</string>
+    <string name="author_avatar">Author avatar</string>
+    <string name="author">Author</string>
+    <string name="unknown">Unknown</string>
+    <string name="type">Type</string>
+    <string name="not_available">N/A</string>
+    <string name="user_id">User ID</string>
+    <string name="profile_url">Profile URL</string>
+    <string name="repository">Repository</string>
+    <string name="full_name">Full Name</string>
+    <string name="description">Description</string>
+    <string name="stars">Stars</string>
+    <string name="zero">0</string>
+    <string name="url">URL</string>
+    <string name="private_repo">Private</string>
+    <string name="public_repo">Public</string>
+    <string name="fork">Fork</string>
+    <string name="no_repositories_found">No repositories found</string>
+    <string name="avatar_of">Avatar of %1$s</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="retry">Retry</string>
+    <string name="switch_to_mock_data">Switch to mock data</string>
+</resources>
